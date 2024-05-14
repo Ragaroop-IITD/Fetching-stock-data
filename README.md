@@ -84,7 +84,6 @@ The benchmark results include metrics for each file format:
 Example: 
 `make SYMBOL=SBIN num_years=2`
 
-![[SBIN.png]](Pics/SBIN.png)
 
 
 
